@@ -1,5 +1,5 @@
 import cv2
-from haarvect import *
+from vecteur import *
 from comp import *
 from remplircsv import *
 import numpy,os
